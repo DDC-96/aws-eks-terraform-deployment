@@ -56,3 +56,5 @@ variable "instance_type" {
   description = "Instance type for worker nodes"
   default     = "t3.medium"
 }
+
+
